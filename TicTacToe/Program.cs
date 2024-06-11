@@ -21,6 +21,7 @@ Initialize Game
     Initialize Board with Size
     Initialize Players with Name and PeiceType
     Add Players to List
+    
 Start Game
 ----------
 
@@ -29,7 +30,7 @@ Start Game
     Take input from players and add input to board
     Check winner at each step
     print tie if there is no winner
-    
+
 */
 
 
